@@ -4,18 +4,18 @@ A repository of data science projects with codes and explainations.
 
 # Contents
 1. [Supervised Learning](#supervised-learning)
-1. [Machine Learning](#machine-learning)
-1. [Natural Language Processing](#natural-language-processing)
-1. [Computer Vision](#computer-vision)
-1. [Time Series](#time-series)
+1. [Unsupervised Learning](#unsupervised-learning)
 
 
 # Supervised Learning 
-
 | Title        |  Repository  |
 | ------------- | :-----:|
 | HR Analytics - Job offer acceptance prediction | [link](./code/hr_analytics) |
-| Churn Analytics - Telco customer churn prediction | [link](./code/hr_analytics) |
-| HR Analytics - Job offer acceptance prediction | [link](./code/hr_analytics) |
-| HR Analytics - Job offer acceptance prediction | [link](./code/hr_analytics) |
-| HR Analytics - Job offer acceptance prediction | [link](./code/hr_analytics) |
+| Churn Prediction - Telco customer churn prediction | [link](./code/churn_prediction) |
+| Fraud Prediction - Job offer acceptance prediction | [link](./code/fraud_prediction) |
+
+
+# Unsupervised Learning 
+| Title        |  Repository  |
+| ------------- | :-----:|
+| Anomaly Detection - Anomaly detection n Anti Money Laundering | [link](./code/anomaly_detection) |
