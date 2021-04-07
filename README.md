@@ -14,5 +14,5 @@ A repository of data science projects with codes and explainations.
 
 | Title        |  Repository  |
 | ------------- | :-----:|
-| How to Create Fake Data with Faker | [link](./data_science_tools/faker.ipynb) |
+| HR Analytics - Job offer acceptance prediction | [link](.code/hr_analytics/README.md) |
 | How to Embed Interactive Charts on your Medium Articles and Personal Website | [link](./data_science_tools/embed_charts.ipynb) |
