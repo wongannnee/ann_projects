@@ -224,19 +224,3 @@ test_time_nn=end4-start4
 print("Train time NN :", train_time_nn)
 print("Test time  NN :", test_time_nn)
 
-
-######## Step 6 : Try Feature Extraction based on 14 Important Features #####
-
-#Extract 14 features and 1 target variable
-hr_new=hr[['Gender', 'Min_experience', 'Last_salary', 'Salary_hike', 'Work_hours','Possess_vehicle', 'Traveltowork_distance_&_time', 'Job_type', 'Work_area_living_cost', 'Bonus', 'Extra_EPF', 'Comp_size','Work_life', 'Stresslevel', 'Accept_offer']]
-
-
-# Split to test and train dataset 70:30 ratio
-x_new=hr_new.drop(['Accept_offer'], axis=1)
-y_new=hr_new.Accept_offer
-x_train, x_test, y_train, y_test = train_test_split(x_new,y_new,test_size=0.3,random_state=0)
-
-
-
-
-
