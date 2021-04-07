@@ -14,5 +14,5 @@ A repository of data science projects with codes and explainations.
 
 | Title        |  Repository  |
 | ------------- | :-----:|
-| HR Analytics - Job offer acceptance prediction | [link](.code/hr_analytics/README.md) |
+| HR Analytics - Job offer acceptance prediction | [link](.code/hr_analytics) |
 | How to Embed Interactive Charts on your Medium Articles and Personal Website | [link](./data_science_tools/embed_charts.ipynb) |
