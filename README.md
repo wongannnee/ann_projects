@@ -15,4 +15,7 @@ A repository of data science projects with codes and explainations.
 | Title        |  Repository  |
 | ------------- | :-----:|
 | HR Analytics - Job offer acceptance prediction | [link](./code/hr_analytics) |
-| How to Embed Interactive Charts on your Medium Articles and Personal Website | [link](./data_science_tools/embed_charts.ipynb) |
+| Churn Analytics - Telco customer churn prediction | [link](./code/hr_analytics) |
+| HR Analytics - Job offer acceptance prediction | [link](./code/hr_analytics) |
+| HR Analytics - Job offer acceptance prediction | [link](./code/hr_analytics) |
+| HR Analytics - Job offer acceptance prediction | [link](./code/hr_analytics) |
