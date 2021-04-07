@@ -21,3 +21,10 @@ A repository of data science projects with codes and explainations.
 1. [Productive Tips](#productive-tips)
 1. [Book Review](#book-review)
 1. [Data Science Portfolio](#data-science-portfolio)
+
+# Data Science Tools 
+
+| Title        |  Repository  |
+| ------------- | :-----:|
+| How to Create Fake Data with Faker | [link](./data_science_tools/faker.ipynb) |
+| How to Embed Interactive Charts on your Medium Articles and Personal Website | [link](./data_science_tools/embed_charts.ipynb) |
