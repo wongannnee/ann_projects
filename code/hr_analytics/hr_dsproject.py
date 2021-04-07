@@ -1,5 +1,4 @@
-# Data Science Project- HR Recruitment Analytics
-# Wong Ann Nee, October2020
+# HR Recruitment Analytics
 
 import pandas as pd
 import numpy as np
