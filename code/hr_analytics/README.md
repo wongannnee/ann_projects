@@ -12,4 +12,4 @@ Consolidation of historical and new data on different formats (word, excel, writ
 # Business Impact:  
 10 key factors were found affecting the offer acceptance decision related to job type, compensation and benefit, candidate demographics, personality and workplace rating. Up to 95% predictive accuracy was achieved with MLP.  This assisted the management staff in making job offer decisions, resulting in an acceptance rate of 80% over the last three months.
 
-# Code 
+# [Code](./hr_dsproject.py) |
