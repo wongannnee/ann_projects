@@ -29,7 +29,7 @@ from keras.layers import Dense
 
 
 # Import Dataset
-hr=pd.read_csv("C:\\Users\\wongannnee\\Google Drive\\00- Full Stack 360TMG\\M4 DS Live Project\\hr.csv") 
+hr=pd.read_csv("C:\\hr.csv") 
 pd.set_option('display.max_column',None)
 hr.head()
 hr.columns
@@ -236,10 +236,6 @@ x_new=hr_new.drop(['Accept_offer'], axis=1)
 y_new=hr_new.Accept_offer
 x_train, x_test, y_train, y_test = train_test_split(x_new,y_new,test_size=0.3,random_state=0)
 
-
-################### Step 6a : Modelling with 14 Important Features #############
-
-# repeat codes row 130-209
 
 
 
