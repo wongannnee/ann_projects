@@ -2,6 +2,7 @@
 Churn prediction is important to detect customers who are likely to cancel a service subscription based on their profile or product usage behaviour. This is an important prediction to businesses as identify those customers who are at risk of cancelling will enable the personalised marketing action to be taken for each customer to maximise the chances that the customer will remain.  The cost of obtaining a new customer is higher than retaining one. A dataset mimicing  a telecommunication business is obtained from Kaggle (https://www.kaggle.com/blastchar/telco-customer-churn)
 
 # Challenges and Solutions:
+
 Customer churn has an imbalanced dataset problem where the the target variable 'Churn' is imbalanced where 26.5% customers churn with a 'yes' and 73.5% ‘no’, try imbalanced class treatments, eg: undersampling, or oversampling
 
 ![image](https://user-images.githubusercontent.com/38233117/114195538-1e1e4d80-9983-11eb-8e97-0b1e0c79fe92.png)
