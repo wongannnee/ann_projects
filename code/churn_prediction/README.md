@@ -1,24 +1,26 @@
 # Business Problem: 
 Churn prediction is important to detect customers who are likely to cancel a service subscription based on their profile or product usage behaviour. This is an important prediction to businesses as identify those customers who are at risk of cancelling will enable the personalised marketing action to be taken for each customer to maximise the chances that the customer will remain.  The cost of obtaining a new customer is higher than retaining one. A dataset mimicing  a telecommunication business is obtained from Kaggle (https://www.kaggle.com/blastchar/telco-customer-churn)
 
-![Dataset](./image/Churn_Prediction_EDA.jpg)
-
 # Challenges and Solutions:
-Consolidation of historical and new data on different formats (word, excel, written) by process re-engineering to collect data in a structured format.  
+Customer churn has an imbalanced dataset problem where the the target variable 'Churn' is imbalanced where 26.5% customers churn with a 'yes' and 73.5% ‘no’, try imbalanced class treatments, eg: undersampling, or oversampling
+![image](https://user-images.githubusercontent.com/38233117/114195538-1e1e4d80-9983-11eb-8e97-0b1e0c79fe92.png)
+ 
 
 # Technical Setting:  
-Technology stack: Python, MS Power BI, Spyder on Anaconda<br/>
+Technology stack: Python, Spyder on Anaconda, UiPath for Automation <br/>
 ![Solution](./image/Churn_Prediction_CRISPDM.jpg)
-Classification Algorithms: Multi-Layer Perceptron (MLP), Gradient Boosting, Logistics Regression, Decision Tree, Gausian Naïve Bayes, AdaBoost, Random Forest, K Nearest Neighbour Classifier, SVM<br/>
-Dataset: job description, candidate demographics, compensation and benefit package
+Classification Algorithms: Multi-Layer Perceptron (MLP), Gradient Boosting, Logistics Regression, Decision Tree, Gausian Naïve Bayes, AdaBoost, Random Forest, Extra Tree, K Nearest Neighbour Classifier, SVM<br/>
+Dataset: Customer demographics and servie procurement history
 ![crisp-dm](./image/Churn_Prediction_Process.jpg)
 
 
 # Business Impact:  
-10 key factors were found affecting the offer acceptance decision, mainly contributed by job type and compensation and benefit package. 
+3 factors positively and negatively effecting churn have been identified 
 ![correlation](./image/Churn_Prediction_Correlation.jpg)
-Up to 95% predictive accuracy was achieved with MLP.  This assisted the management staff in making job offer decisions, resulting in an acceptance rate of 80% over the last three months.
+Top 3 algorithms with the highet churn prediction accuracy are Logistics Regression, Support Vector Machine and Multilayer Preceptron. Using SMOTE imbalanced dataset treatment did not improve the Accuracy, but improved Recall. Therefore, SMOTE treatment is used in the feature engineering stage.
 ![results](./image/Churn_Prediction_Results 2.jpg)
 
-# [Code](./Churn Prediction.ipynb)
-Python codes from EDA, ETL, model training and evaluation 
+# [Code](./Churn Prediction Ver2.ipynb)
+Python codes from EDA, ETL, model training and evaluation
+[Hyperparameter Tuning of MLP](./Keras Tuner_hyperband.ipynb)
+
