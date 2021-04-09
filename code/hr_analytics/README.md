@@ -11,6 +11,8 @@ Dataset: Interview scores, job description, candidate demographics, experience a
 ![crisp-dm](./image/CRISPDM_offer_acceptance.jpg)
 
 # Business Impact:  
-10 key factors were found affecting the offer acceptance decision related to job type, compensation and benefit, candidate demographics, personality and workplace rating. Up to 95% predictive accuracy was achieved with MLP.  This assisted the management staff in making job offer decisions, resulting in an acceptance rate of 80% over the last three months.
+10 key factors were found affecting the offer acceptance decision related to job type, compensation and benefit, candidate demographics, personality and workplace rating. 
+![correlation](./image/correlation_offer_acceptance.jpg)
+Up to 95% predictive accuracy was achieved with MLP.  This assisted the management staff in making job offer decisions, resulting in an acceptance rate of 80% over the last three months.
 
 # [Code](./hr_dsproject.py)
