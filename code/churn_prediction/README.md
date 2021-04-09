@@ -8,6 +8,7 @@ Consolidation of historical and new data on different formats (word, excel, writ
 
 # Technical Setting:  
 Technology stack: Python, MS Power BI, Spyder on Anaconda<br/>
+![Solution](./image/Churn_Prediction_CRISPDM.jpg)
 Classification Algorithms: Multi-Layer Perceptron (MLP), Gradient Boosting, Logistics Regression, Decision Tree, Gausian Naïve Bayes, AdaBoost, Random Forest, K Nearest Neighbour Classifier, SVM<br/>
 Dataset: job description, candidate demographics, compensation and benefit package
 ![crisp-dm](./image/Churn_Prediction_Process.jpg)
