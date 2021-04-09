@@ -4,8 +4,6 @@ Churn prediction is important to detect customers who are likely to cancel a ser
 # Challenges and Solutions:
 
 Customer churn has an imbalanced dataset problem where the the target variable 'Churn' is imbalanced where 26.5% customers churn with a 'yes' and 73.5% ‘no’, try imbalanced class treatments, eg: undersampling, or oversampling
-
-![image](https://user-images.githubusercontent.com/38233117/114195538-1e1e4d80-9983-11eb-8e97-0b1e0c79fe92.png)
  
 
 # Technical Setting:  
