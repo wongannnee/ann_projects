@@ -10,7 +10,8 @@ Consolidation of historical and new data on different formats (word, excel, writ
 Technology stack: Python, MS Power BI, Spyder on Anaconda<br/>
 Classification Algorithms: Multi-Layer Perceptron (MLP), Gradient Boosting, Logistics Regression, Decision Tree, Gausian Naïve Bayes, AdaBoost, Random Forest, K Nearest Neighbour Classifier, SVM<br/>
 Dataset: job description, candidate demographics, compensation and benefit package
-![crisp-dm](./image/CRISPDM_offer_acceptance.jpg)
+![crisp-dm](./image/Churn_Prediction_Process.jpg)
+
 
 # Business Impact:  
 10 key factors were found affecting the offer acceptance decision, mainly contributed by job type and compensation and benefit package. 
