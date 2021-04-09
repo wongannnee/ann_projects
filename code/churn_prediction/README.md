@@ -16,6 +16,5 @@ Dataset: job description, candidate demographics, compensation and benefit packa
 Up to 95% predictive accuracy was achieved with MLP.  This assisted the management staff in making job offer decisions, resulting in an acceptance rate of 80% over the last three months.
 ![results](./image/results_offer_acceptance.jpg)
 
-# [Code](./hr_dsproject.py)
+# [Code](./Churn Prediction.ipynb)
 Python codes from EDA, ETL, model training and evaluation 
-
