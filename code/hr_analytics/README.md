@@ -5,8 +5,8 @@ With a normal staff turnover rate of 20%, a high volume of recruitment happens m
 Consolidation of historical and new data on different formats (word, excel, written) by process re-engineering to collect data in a structured format.  
 
 # Technical Setting:  
-Technology stack: Python, MS Power BI, Spyder on Anaconda
-Algorithms: Multi-Layer Perceptron (MLP), Gradient Boosting, Logistics Regression, Decision Tree, Gausian Naïve Bayes, AdaBoost, Random Forest, K Nearest Neighbour Classifier, SVM
+Technology stack: Python, MS Power BI, Spyder on Anaconda<br/>
+Classification Algorithms: Multi-Layer Perceptron (MLP), Gradient Boosting, Logistics Regression, Decision Tree, Gausian Naïve Bayes, AdaBoost, Random Forest, K Nearest Neighbour Classifier, SVM<br/>
 Dataset: job description, candidate demographics, compensation and benefit package
 ![crisp-dm](./image/CRISPDM_offer_acceptance.jpg)
 
