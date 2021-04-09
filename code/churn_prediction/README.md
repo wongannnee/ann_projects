@@ -3,21 +3,26 @@ Churn prediction is important to detect customers who are likely to cancel a ser
 
 # Challenges and Solutions:
 Customer churn has an imbalanced dataset problem where the the target variable 'Churn' is imbalanced where 26.5% customers churn with a 'yes' and 73.5% ‘no’, try imbalanced class treatments, eg: undersampling, or oversampling
+
 ![image](https://user-images.githubusercontent.com/38233117/114195538-1e1e4d80-9983-11eb-8e97-0b1e0c79fe92.png)
  
 
 # Technical Setting:  
 Technology stack: Python, Spyder on Anaconda, UiPath for Automation <br/>
+
 ![Solution](./image/Churn_Prediction_CRISPDM.jpg)
 Classification Algorithms: Multi-Layer Perceptron (MLP), Gradient Boosting, Logistics Regression, Decision Tree, Gausian Naïve Bayes, AdaBoost, Random Forest, Extra Tree, K Nearest Neighbour Classifier, SVM<br/>
 Dataset: Customer demographics and servie procurement history
+
 ![crisp-dm](./image/Churn_Prediction_Process.jpg)
 
 
 # Business Impact:  
 3 factors positively and negatively effecting churn have been identified 
+
 ![correlation](./image/Churn_Prediction_Correlation.jpg)
 Top 3 algorithms with the highet churn prediction accuracy are Logistics Regression, Support Vector Machine and Multilayer Preceptron. Using SMOTE imbalanced dataset treatment did not improve the Accuracy, but improved Recall. Therefore, SMOTE treatment is used in the feature engineering stage.
+
 ![results](./image/Churn_Prediction_Results 2.jpg)
 
 # [Code](./Churn Prediction Ver2.ipynb)
