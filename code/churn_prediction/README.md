@@ -15,9 +15,9 @@ Dataset: job description, candidate demographics, compensation and benefit packa
 
 # Business Impact:  
 10 key factors were found affecting the offer acceptance decision, mainly contributed by job type and compensation and benefit package. 
-![correlation](./image/correlation_offer_acceptance.jpg)
+![correlation](./image/Churn_Prediction_Correlation.jpg)
 Up to 95% predictive accuracy was achieved with MLP.  This assisted the management staff in making job offer decisions, resulting in an acceptance rate of 80% over the last three months.
-![results](./image/results_offer_acceptance.jpg)
+![results](./image/Churn_Prediction_Results 2.jpg)
 
 # [Code](./Churn Prediction.ipynb)
 Python codes from EDA, ETL, model training and evaluation 
