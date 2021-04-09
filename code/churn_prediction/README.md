@@ -1,6 +1,7 @@
 # Business Problem: 
-xxx
-![Factors candidates consider](./image/factors_offer_acceptance.jpg)
+Churn prediction is important to detect customers who are likely to cancel a service subscription based on their profile or product usage behaviour. This is an important prediction to businesses as identify those customers who are at risk of cancelling will enable the personalised marketing action to be taken for each customer to maximise the chances that the customer will remain.  The cost of obtaining a new customer is higher than retaining one. A dataset mimicing  a telecommunication business is obtained from [Kaggle] (https://www.kaggle.com/blastchar/telco-customer-churn).
+![Dataset](./image/Churn Prediction - EDA.jpg)
+
 # Challenges and Solutions:
 Consolidation of historical and new data on different formats (word, excel, written) by process re-engineering to collect data in a structured format.  
 
