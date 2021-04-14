@@ -14,8 +14,7 @@ A repository of data science projects with codes and explainations.
 | ------------- | :-----:|
 | HR Analytics - Job offer acceptance prediction | [link](./code/hr_analytics) |
 | Churn Prediction - Telco customer churn prediction | [link](./code/churn_prediction) |
-| Fraud Prediction - Credit Card fraud prediction | [link](./code/fraud_prediction) |
-
+| Fraud Prediction - Credit Card fraud prediction | [link](./code/fraud_detection/CreditCardFraudDetection.ipynb) |
 
 
 # Unsupervised Learning 
