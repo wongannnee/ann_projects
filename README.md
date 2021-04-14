@@ -20,4 +20,4 @@ A repository of data science projects with codes and explainations.
 # Unsupervised Learning 
 | Title        |  Repository  |
 | ------------- | :-----:|
-| Anomaly Detection - Anomaly detection in Anti Money Laundering | [link](./code/anomaly_detection) |
+| Anomaly Detection - Anomaly detection in Anti Money Laundering | [link](./code/anomaly_detection/Anomaly2.ipynb) |
